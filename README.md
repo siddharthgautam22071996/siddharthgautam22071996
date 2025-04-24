@@ -27,7 +27,7 @@ I have hands-on experience working with **Node.js**, **MongoDB**, **PostgreySql*
 ### 🌱 Currently Learning
 
 - More advanced **Flutter** and **React Native** concepts
-- Cloud solutions (AWS, Firebase)
+- Cloud solutions (AWS, Firebase, GCP)
 - Scaling production apps
 
 ## 🔗 Links
