@@ -1,6 +1,6 @@
 # Hi, I'm Siddharth 👋
 
-### Technology & Product Builder | Senior Android Engineer | Backend & SaaS 🚀
+### Technology & Product Builder | Senior Full Stack Engineer | Backend & SaaS 🚀
 
 I’m a **Senior Android Engineer and Product Builder** with 7+ years of experience building, scaling, and maintaining production-grade mobile applications and backend systems.
 
