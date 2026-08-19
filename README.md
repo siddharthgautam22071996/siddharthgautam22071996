@@ -1,45 +1,118 @@
 # Hi, I'm Siddharth 👋
 
-### Senior Android Developer | Open-source Enthusiast 🚀
+### Technology & Product Builder | Senior Android Engineer | Backend & SaaS 🚀
 
-I’m a passionate developer with a strong focus on building innovative mobile applications and backend systems. I love contributing to open-source projects and continually exploring new technologies to improve my skills.
+I’m a **Senior Android Engineer and Product Builder** with 7+ years of experience building, scaling, and maintaining production-grade mobile applications and backend systems.
 
----
+I enjoy turning ideas into reliable products — from **Android applications and MVPs to APIs, real-time systems, payment integrations, and scalable backend services**.
 
-### 🛠️ Technologies & Tools
-
-- **Mobile Development**: Kotlin, Jetpack Compose, Flutter, React Native  
-- **Backend Development**: Node.js, MongoDB, PostgreySql  
-- **Architecture**: Clean Architecture, SOLID principles  
-- **Other**: Production Management, Full-stack Development, CICD   
-- **Leadership**: Team Coordination, Project Management, Hotfixes & Customer Support  
+I care about clean architecture, maintainable code, performance, and most importantly, building software that solves real-world problems.
 
 ---
 
-### 🚀 About Me
+## 🛠️ Technologies & Tools
 
-I am an experienced **Senior Android Developer** with a passion for building high-quality apps. My expertise spans across **Android** and **cross-platform development** using **Flutter** and **React Native**. I am also a strong advocate of clean code practices, including **SOLID principles** and **Clean Architecture**.
+### 📱 Mobile
 
-I have hands-on experience working with **Node.js**, **MongoDB**, **PostgreySql** and I enjoy tackling both frontend and backend challenges as a **full-stack developer**.
+* Kotlin
+* Android SDK
+* Jetpack Compose
+* Flutter
+* React Native
+
+### ⚙️ Backend & Data
+
+* Node.js
+* MongoDB
+* PostgreSQL
+* Redis
+* REST APIs
+* Socket.IO / Real-time Systems
+
+### ☁️ Cloud & DevOps
+
+* Firebase
+* AWS
+* Docker
+* CI/CD
+* GitHub Actions
+
+### 🏗️ Engineering
+
+* Clean Architecture
+* SOLID Principles
+* MVVM
+* Modular Architecture
+* Scalable System Design
+* Performance Optimization
+
+### 💳 Product & Integrations
+
+* Payment Gateway Integration
+* Push Notifications
+* Location & Real-time Tracking
+* Authentication
+* Third-party API Integrations
+
+### 👨‍💻 Leadership
+
+* Technical Leadership
+* Team Coordination
+* Code Reviews
+* Production Management
+* Incident & Hotfix Management
+* Customer Issue Resolution
 
 ---
 
-### 🌱 Currently Learning
+## 🚀 What I Build
 
-- More advanced **Flutter** and **React Native** concepts
-- Cloud solutions (AWS, Firebase, GCP)
-- Scaling production apps
+I’m particularly interested in building and improving:
 
-## 🔗 Links
-- [LinkedIn](https://www.linkedin.com/in/siddharth-gautam-05598393/)
-<!--- [Personal Website](https://siddharthchingari.com)
-- [My Blog](https://dev.to/siddharthchingari)-->
+* 📱 **Mobile applications**
+* 🚀 **Startup MVPs**
+* 🔌 **Backend APIs & services**
+* ⚡ **Real-time applications**
+* 💳 **Payment & subscription systems**
+* 📍 **Location-based applications**
+* ☁️ **Cloud-backed products**
+* 📊 **Scalable SaaS platforms**
 
-## 📈 GitHub Stats
-![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddharth-gautam-05598393&show_icons=true&hide_title=true&count_private=true&hide=prs)
+I enjoy working across the stack when a product requires it — from **mobile UI to backend architecture and production infrastructure**.
+
+---
+
+## 💡 Engineering Philosophy
+
+> **Build simple. Scale thoughtfully. Ship reliably.**
+
+I believe good software is not just about writing code. It's about understanding the problem, choosing the right architecture, keeping systems maintainable, and delivering a reliable experience to users.
 
 ---
 
-Feel free to check out my repositories and feel free to reach out if you want to collaborate!
+## 🌱 Currently Exploring
+
+* Advanced Flutter & cross-platform architecture
+* Distributed and real-time systems
+* Cloud architecture & scalability
+* SaaS product development
+* AI-assisted development workflows
+* Product engineering & system design
 
 ---
+
+## 🔗 Connect With Me
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/siddharth-gautam-05598393/)
+
+Feel free to explore my repositories, open an issue, or reach out if you'd like to **collaborate, build something interesting, or discuss technology and product engineering**.
+
+---
+
+## 📊 GitHub Stats
+
+![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddharth-gautam-05598393\&show_icons=true\&hide_title=true\&count_private=true\&hide=prs)
+
+---
+
+⭐ Thanks for visiting my profile!
